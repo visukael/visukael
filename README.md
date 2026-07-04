@@ -47,27 +47,3 @@
   <br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=visukael&layout=compact&bg_color=000000&title_color=ffffff&text_color=999999&hide_border=true" />
 </div>
-      <img src="https://i.pinimg.com/originals/a0/0a/6a/a00a6a51272659e2eb463da8f8a113b9.gif" width="150" />
-    </td>
-  </tr>
-</table>
-
-### Technologies
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
-
-### Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=visukael&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=visukael&theme=dark&hide_border=false" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=visukael&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
