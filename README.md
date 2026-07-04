@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.gifdb.com/black-and-white-man-with-sword-and-black-circle-mj2j3x98ca2rkeg4.gif" width="100%" alt="Berserk Banner">
+</p>
+
+<br>
+
 <div align="center">
 
 ⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝
@@ -6,7 +12,6 @@
 
 <div align="center">
 
-```
 ⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⢀⣀⡀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠈⢘⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⡝⣿⡎⠂⠀⠀⠀⠀
 ⠀⠀⣆⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⡹⣿⣿⡜⢿⣄⢄⠀⠀⠀
@@ -23,7 +28,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⡇⠀⠙⠁⠀⢨⣵⣿⠿⠟⠋⠀⠀⠀⡄⠁
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⢇⣷⣦⣄⠀⠀⠟⠛⠃⠀⠀⠀⠀⠀⠀⣠⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀
-```
 
 </div>
 
