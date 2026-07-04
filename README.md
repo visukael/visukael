@@ -1,130 +1,160 @@
 <div align="center">
 
-<img src="https://gifdb.com/images/branded/high/black-and-white-dark-aesthetic-36eu07heyvb1q9bc.gif" width="100%" style="max-height:340px; object-fit:cover; border-radius:4px;" alt="dark aesthetic" />
+⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝
 
 </div>
-
-<h1 align="center">✶⋆♱.𖥔 ݁ ˖♰✱</h1>
-
-<h3 align="center">VISUKAEL</h3>
-<p align="center"><sub>BACKEND ARCHITECT — INDONESIA // SEA</sub></p>
 
 <div align="center">
 
-![status](https://img.shields.io/badge/STATUS-ACTIVE-000000?style=flat-square&labelColor=000000&color=1a1a1a)
-![clearance](https://img.shields.io/badge/CLEARANCE-BLACK-000000?style=flat-square&labelColor=000000&color=1a1a1a)
-![signal](https://img.shields.io/badge/FREQUENCY-SILENT-000000?style=flat-square&labelColor=000000&color=1a1a1a)
-![views](https://komarev.com/ghpvc/?username=visukael&style=flat-square&color=0d0d0d&label=SCANS)
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=D9D9D9&background=00000000&center=true&vCenter=true&width=560&lines=root%40void%3A~%23+whoami;visukael+%E2%80%94+backend+architect;root%40void%3A~%23+status;online+%2F+encrypted+%2F+watching" alt="terminal" />
-</div>
-
-<br>
-
-<p align="center">✶⋆♱.𖥔 ݁ ˖♰✱</p>
-
-## DOSSIER
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-```yaml
-codename:    VISUKAEL
-function:    Backend Architect
-sector:      Indonesia // SEA
-timezone:    GMT+7 (nocturnal shift)
-alignment:   Lawful Shadow
-frequency:   silent unless summoned
+```
+⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⢀⣀⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⢘⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⡝⣿⡎⠂⠀⠀⠀⠀
+⠀⠀⣆⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⡹⣿⣿⡜⢿⣄⢄⠀⠀⠀
+⣄⣺⣿⣼⣦⡻⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⠛⢿⣃⣈⠙⢿⡆⠻⢎⠀⠀⠀
+⢻⣿⣿⣿⣿⣇⢻⣿⣿⣿⣿⣿⢹⣿⣿⣿⣿⢻⠛⡟⠙⠀⠀⠀⠀⠈⣇⠀⠀
+⠘⣿⣟⠛⣿⣿⣿⣟⢿⣿⣿⣿⡌⣿⣿⣿⡿⠀⠁⠀⠀⠀⠀⠀⠀⠘⢾⡀⠀
+⠀⠻⠻⣧⡸⣿⣿⣿⣾⣿⣿⣿⣿⡘⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠇⠀
+⠀⠀⠀⠉⠣⠸⢿⣼⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⣀⡈⢀⣴⠄⠀⠀⠀⠀⡆⠀
+⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⠻⣿⣿⣷⡄⠀⠀⢀⠙⠛⠛⠁⠀⠀⠀⢀⢶⡄⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡀⠈⢿⣿⣷⣤⣐⡊⠉⠁⠀⠀⠀⡀⠀⣿⣎⠇⠀
+⠀⠀⠀⠀⠀⠀⠘⠲⠖⠛⠁⠀⣺⣿⣿⣿⣿⣿⣿⣷⣿⣟⡈⣿⣷⡙⣿⡄⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠈⣷⡘⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠙⢶⣶⣶⣿⣿⣿⢻⣿⡿⠿⣿⣿⣿⣿⣿⣷⡀⠋⠀⢰⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⡇⠀⠙⠁⠀⢨⣵⣿⠿⠟⠋⠀⠀⠀⡄⠁
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⢇⣷⣦⣄⠀⠀⠟⠛⠃⠀⠀⠀⠀⠀⠀⣠⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀
 ```
 
-</td>
-<td width="45%" valign="top">
+</div>
 
-<img src="https://gifdb.com/images/thumbnail/black-and-white-dracula-ikha4qgd5qa99g17.gif" width="100%" style="border-radius:4px;" alt="vamp" />
+<div align="center">
 
-</td>
-</tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=3500&pause=900&color=D6D2C4&center=true&vCenter=true&width=700&lines=THE+BLACK+SWORDSMAN;STRUGGLE+ON%2C+NO+MATTER+WHAT;ALONE%2C+BUT+NEVER+BROKEN)](https://git.io/typing-svg)
 
-<p align="center">✶⋆♱.𖥔 ݁ ˖♰✱</p>
+</div>
 
-## ARSENAL
-
-<table>
-<tr>
-<td width="45%" valign="top">
-
-<img src="https://gifdb.com/images/thumbnail/black-and-white-cube-optic-kshhchd0ryo45klo.gif" width="100%" style="border-radius:4px;" alt="chrome" />
-
-</td>
-<td width="55%" valign="top">
-
-<p>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D9D9D9" />
-<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=D9D9D9" />
-<br>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D9D9D9" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=D9D9D9" />
-<br>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=D9D9D9" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=D9D9D9" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D9D9D9" />
+<p align="center">
+  <img src="banner.svg" width="100%" alt="banner"/>
 </p>
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.shion.dev/api?username=visukael&bg_color=00000000&title_color=D9D9D9&text_color=6e6e6e&icon_color=D9D9D9&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=visukael&layout=compact&bg_color=00000000&title_color=D9D9D9&text_color=6e6e6e&hide_border=true" width="100%" />
-</td>
-</tr>
-</table>
-
-<p align="center">✶⋆♱.𖥔 ݁ ˖♰✱</p>
-
-## RADAR
-
 <div align="center">
 
-<img src="https://gifdb.com/images/thumbnail/galaxy-black-and-white-2s3ougpw5cb5gudh.gif" width="55%" style="border-radius:4px;" alt="mysterious" />
+<i>𝔗𝔥𝔢 𝔰𝔦𝔩𝔢𝔫𝔠𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔤𝔯𝔞𝔳𝔢 𝔦𝔰 𝔪𝔬𝔯𝔢 𝔠𝔬𝔪𝔣𝔬𝔯𝔱𝔦𝔫𝔤 𝔱𝔥𝔞𝔫 𝔱𝔥𝔢 𝔫𝔬𝔦𝔰𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔩𝔦𝔳𝔦𝔫𝔤.</i>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=visukael&background=00000000&border=1a1a1a&ring=D9D9D9&fire=D9D9D9&currStreakLabel=6e6e6e&sideNums=D9D9D9&currStreakNum=D9D9D9&sideLabels=6e6e6e&dates=6e6e6e&hide_border=true" width="80%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=visukael&bg_color=00000000&color=D9D9D9&line=6e6e6e&point=FFFFFF&area=true&hide_border=true" width="100%" />
+`⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝`
 
 </div>
 
-<p align="center">✶⋆♱.𖥔 ݁ ˖♰✱</p>
+<br>
 
-## CHANNELS
+## ⚔️ &nbsp; About Me
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+- 🗡️ &nbsp; A lone developer, cutting through bugs one commit at a time
+- 🌑 &nbsp; Building in the dark, shipping in silence
+- ⚙️ &nbsp; Currently forging: `your-project-here`
+- 🩸 &nbsp; Fueled by struggle, stubbornness, and cold coffee
+- 📡 &nbsp; Reach me: `your@email.com`
+
+</td>
+<td width="40%" valign="top" align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&color=1a1a1a&style=flat-square)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D9D9D9" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=D9D9D9" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D9D9D9" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=D9D9D9" /></a>
+`⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝`
+
+</div>
+
+## 🖤 &nbsp; Tech Arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<div align="center">
+
+`⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝`
+
+</div>
+
+## 📜 &nbsp; The Record (Stats)
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=d6d2c4&icon_color=8a8680&text_color=b9b6b0" alt="stats"/>
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=d6d2c4&text_color=b9b6b0" alt="top langs"/>
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D0D0D&stroke=1a1a1a&ring=8a8680&fire=7a1010&currStreakLabel=d6d2c4" alt="streak"/>
+
+</div>
+
+<div align="center">
+
+`⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝`
+
+</div>
+
+## 🩸 &nbsp; The Struggle Continues (Contribution Graph)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+</div>
+
+<div align="center">
+
+`⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝`
+
+</div>
+
+## ⚰️ &nbsp; Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_USERNAME)
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://gifdb.com/images/thumbnail/candle-dark-aesthetic-v8rpj78iq3s5hy3a.gif" width="30%" style="border-radius:4px;" alt="closing" />
-</div>
 
-<p align="center">✶⋆♱.𖥔 ݁ ˖♰✱</p>
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣠⡄⠀⠀⠀⠀⠀⠀⢰⡀⠀⠀⢹⣿⣿⣿⣿⣿⡟⠉
+⠀⠀⠀⠀⢀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⢿⣶⣿⣇⡀⣼⣿⣿⣿⣿⣿
+⢀⣴⠾⠿⠛⠛⠛⠛⠻⢿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⣿⡿⠛⠛⠛⠯
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⠿⠛⠛⣿⣿⠿⢿⣿⣿⣿⡟
+```
+
+**⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝**
+
+<sub>"Struggle on, no matter what."</sub>
+
+</div>
