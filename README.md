@@ -38,7 +38,7 @@
 </div>
 
 <p align="center">
-  <img src="banner.svg" width="100%" alt="banner"/>
+  <img src="https://media.gifdb.com/black-and-white-man-with-sword-and-black-circle-mj2j3x98ca2rkeg4.gif" width="100%" alt="banner"/>
 </p>
 
 <div align="center">
