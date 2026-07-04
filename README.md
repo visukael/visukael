@@ -1,79 +1,136 @@
 <div align="center">
-  <img src="https://media.tenor.com/7s1H1m3-2_oAAAAC/batman-dark.gif" alt="Gotham Header" width="100%" style="border-radius: 15px; filter: brightness(0.8) contrast(1.2);" />
+
+![header](https://capsule-render.vercel.app/api?type=blackHole&color=0:000000,100:1a1a1a&height=260&section=header&text=VISUKAEL&fontColor=C0C0C0&fontSize=70&fontAlignY=45&desc=BACKEND%20OPERATIVE%20%7C%20SECTOR%20INDONESIA&descAlignY=62&descSize=16&animation=fadeIn)
+
+</div>
+
+<div align="center">
+
+![status](https://img.shields.io/badge/STATUS-ACTIVE-000000?style=flat-square&labelColor=000000&color=2b2b2b)
+![clearance](https://img.shields.io/badge/CLEARANCE-BLACK-000000?style=flat-square&labelColor=000000&color=2b2b2b)
+![signal](https://img.shields.io/badge/SIGNAL-ENCRYPTED-000000?style=flat-square&labelColor=000000&color=2b2b2b)
+![views](https://komarev.com/ghpvc/?username=visukael&style=flat-square&color=0d0d0d&label=SCANS)
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=1200&color=E8E8E8&background=00000000&center=true&vCenter=true&width=700&lines=THE+CITY+IS+ROTTEN+TO+ITS+CORE...;SOMEONE+HAS+TO+CLEAN+IT;VISUKAEL+HAS+ENTERED+THE+SYSTEM;NO+MERCY.+ONLY+CODE." alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=14&pause=3000&color=8A8A8A&background=00000000&center=true&vCenter=true&width=600&lines=%22It's+not+who+I+am+underneath%2C+but+what+I+build+that+defines+me.%22" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=C0C0C0&background=00000000&center=true&vCenter=true&width=560&lines=root%40gotham%3A~%23+whoami;visukael+%E2%80%94+backend+architect;root%40gotham%3A~%23+status;online+%2F+nocturnal+%2F+encrypted" alt="terminal" />
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-050505?style=for-the-badge&labelColor=000000&color=1a1a1a" />
-  <img src="https://img.shields.io/badge/ALIGNMENT-CHAOTIC%20GOOD-050505?style=for-the-badge&labelColor=000000&color=1a1a1a" />
-  <img src="https://img.shields.io/badge/CLEARANCE-BLACK-050505?style=for-the-badge&labelColor=000000&color=1a1a1a" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=visukael&icon=0&color=0a0a0a&style=for-the-badge&label=SURVEILLANCE+LOG" alt="Profile Views" />
-</div>
+### `SUBJECT_FILE.dat`
 
-<br>
-
----
-
-<h3 align="center">✦ DOSSIER — SUBJECT FILE #001 ✦</h3>
-
-<table width="100%" border="0">
-  <tr style="border: none;">
-    <td width="45%" valign="top">
-
-```ini
-[SUBJECT]     : VISUKAEL
-[ROLE]        : BACKEND ARCHITECT
-[SECTOR]      : INDONESIA // SEA
-[ALIGNMENT]   : LAWFUL SHADOW
-[STATE]       : NOCTURNAL
-[DRUG OF CH.] : COFFEE & COMPILE ERRORS
-[MANTRA]      : "Build in silence,
-                 deploy like thunder."
+```yaml
+codename:    VISUKAEL
+function:    Backend Architect
+sector:      Indonesia // SEA
+timezone:    GMT+7 (nocturnal shift)
+alignment:   Lawful Shadow
+uptime:      99.9%
+fuel:        black coffee, silence
 ```
 
-<img src="https://media.tenor.com/gK-Wl5_LzG4AAAAC/cyber-glitch.gif" width="100%" style="border-radius: 10px; filter: grayscale(0.3);" alt="Dark Glitch"/>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" style="border-radius:6px;" alt="terminal feed" />
 
-  </td>
-  <td width="55%" valign="top" align="center">
+</td>
+<td width="50%" valign="top">
 
-<h3 align="center">✦ ARSENAL ✦</h3>
+### `ARSENAL.sys`
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=E8E8E8" />
-<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=E8E8E8" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=E8E8E8" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=E8E8E8" />
+<p>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C0C0C0" />
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=C0C0C0" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=C0C0C0" />
 <br>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E8E8E8" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=E8E8E8" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=E8E8E8" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=E8E8E8" />
-<br><br>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=C0C0C0" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=C0C0C0" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=C0C0C0" />
+<br>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=C0C0C0" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=C0C0C0" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=C0C0C0" />
+</p>
 
-<img src="https://github-readme-stats.shion.dev/api?username=visukael&bg_color=00000000&title_color=E8E8E8&text_color=8A8A8A&icon_color=E8E8E8&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" width="100%" />
+<img src="https://github-readme-stats.shion.dev/api?username=visukael&bg_color=00000000&title_color=C0C0C0&text_color=6e6e6e&icon_color=C0C0C0&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" width="100%" />
 
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
+<br>
 
-<h3 align="center">✦ CASE FILES ✦</h3>
+![divider](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:000000&height=3&section=header)
+
+<br>
 
 <div align="center">
+
+### `NIGHT_LOG.exe`
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="70%" style="border-radius:8px;" alt="night city" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**STREAK_TRACE**
+
+<img src="https://streak-stats.demolab.com/?user=visukael&background=00000000&border=0a0a0a&ring=C0C0C0&fire=C0C0C0&currStreakLabel=6e6e6e&sideNums=C0C0C0&currStreakNum=C0C0C0&sideLabels=6e6e6e&dates=6e6e6e&hide_border=true" width="100%" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**LANGUAGE_MATRIX**
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=visukael&layout=compact&bg_color=00000000&title_color=C0C0C0&text_color=6e6e6e&hide_border=true" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**ACTIVITY_GRID**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=visukael&bg_color=00000000&color=C0C0C0&line=6e6e6e&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<br>
+
+![divider](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:000000&height=3&section=header)
+
+<br>
+
+<div align="center">
+
+### `TRANSMISSION.ch`
+
+<a href="#"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=C0C0C0" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=C0C0C0" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=C0C0C0" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=C0C0C0" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=blackHole&color=0:1a1a1a,100:000000&height=150&section=footer)
+
+</div><div align="center">
 <i>Setiap repository adalah kasus yang sudah ditutup — atau sedang diselidiki.</i>
 </div>
 
