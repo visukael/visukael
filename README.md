@@ -66,7 +66,7 @@ Hello there! I'm **Visukael**, a Systems Engineering student. I enjoy learning n
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=visukael&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="200"/>
+<img src="https://i.pinimg.com/originals/f3/fd/e8/f3fde8a696c91d951d51dc6b021d633e.gif" height="200"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=visukael&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="200"/>
 
 <br><br>
