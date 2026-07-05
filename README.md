@@ -18,13 +18,14 @@
 
 </div>
 
-<br>
+<br><br>
 
-## About
-
+<!-- ABOUT — text paired with portrait -->
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
+
+### About
 
 I create because I enjoy the process of turning an idea into something that actually works, looks intentional, and feels good to use. To me, technology isn't just about writing code, it's a medium: a way to shape logic, design, and creativity into something real.
 
@@ -32,7 +33,23 @@ I move comfortably between building and designing. Some days that means structur
 
 I'm drawn to ideas more than titles. I'd rather be known for what I build than for a role I hold.
 
+</td>
+<td width="42%" align="center" valign="top">
+
+<img src="https://i.pinimg.com/736x/fc/c0/fd/fcc0fd5def6bbca3023f8498e7d7ae47.jpg" width="240"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATIONS-0d1117?style=for-the-badge&logoColor=56d364&labelColor=0d1117" />
+
+</td>
+</tr>
+</table>
+
 <br>
+
+<!-- IDENTITY TABLE — full width, sits between the two portrait-anchored sections -->
+<div align="center">
 
 | | |
 |---|---|
@@ -43,20 +60,36 @@ I'm drawn to ideas more than titles. I'd rather be known for what I build than f
 | **Long-term direction** | Building independent, self-owned products |
 | **Way of working** | Curious, detail-driven, always iterating |
 
+</div>
+
+<br><br>
+
+<!-- RIGHT NOW — text paired with an atmospheric visual instead of sitting alone -->
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### Right Now
+
+**Exploring**
+AI, Automation & Creative Technology
+
+**Designing**
+Interfaces, Branding & Product Details
+
+**Building**
+Independent Full Stack Projects
+
 </td>
-<td width="40%" align="center" valign="top">
+<td width="45%" align="center" valign="top">
 
-<img src="https://i.pinimg.com/736x/fc/c0/fd/fcc0fd5def6bbca3023f8498e7d7ae47.jpg" width="230"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATIONS-0d1117?style=for-the-badge&logoColor=56d364&labelColor=0d1117" />
+<img src="https://i.pinimg.com/originals/f3/fd/e8/f3fde8a696c91d951d51dc6b021d633e.gif" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<br>
+<br><br>
 
 ## Toolkit
 
@@ -106,7 +139,7 @@ I'm drawn to ideas more than titles. I'd rather be known for what I build than f
 </tr>
 </table>
 
-<br>
+<br><br>
 
 ## Activity Overview
 
@@ -114,17 +147,11 @@ I'm drawn to ideas more than titles. I'd rather be known for what I build than f
 
 <img src="https://github-readme-stats.vercel.app/api?username=visukael&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=56d364&icon_color=56d364&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=visukael&theme=dark&hide_border=true&background=0d1117&ring=56d364&fire=56d364&currStreakLabel=56d364&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165"/>
-
-<br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visukael&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=56d364&text_color=c9d1d9" height="165"/>
-<img src="https://i.pinimg.com/originals/f3/fd/e8/f3fde8a696c91d951d51dc6b021d633e.gif" height="165"/>
 
 </div>
 
 <br>
-
-## Momentum
 
 <div align="center">
 
@@ -132,43 +159,12 @@ I'm drawn to ideas more than titles. I'd rather be known for what I build than f
 
 </div>
 
-<br>
+<br><br>
 
-## Right Now
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-**Exploring**
-<br>
-AI, Automation & Creative Technology
-
-</td>
-<td width="33%" align="center">
-
-**Designing**
-<br>
-Interfaces, Branding & Product Details
-
-</td>
-<td width="33%" align="center">
-
-**Building**
-<br>
-Independent Full Stack Projects
-
-</td>
-</tr>
-</table>
-
-<br>
-
+<!-- CLOSING — signature line sits directly on the final visual, acting as a signature rather than a caption -->
 <div align="center">
 
 <img src="https://i.pinimg.com/originals/93/26/6d/93266d8669bd48f3552c90c0de38949f.gif" width="100%"/>
-
-<br><br>
 
 <sub>Built, designed, and maintained by Visukael</sub>
 
