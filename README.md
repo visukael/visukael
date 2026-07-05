@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/93/26/6d/93266d8669bd48f3552c90c0de38949f.gif" width="100%"/>
+<img src="https://i.pinimg.com/1200x/2e/2a/ae/2e2aae019f545d3f0084068989294f9e.jpg" width="100%"/>
 
 <br>
 
@@ -76,5 +76,7 @@ Hello there! I'm **Visukael**, a Systems Engineering student. I enjoy learning n
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=visukael&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="100%"/>
 
 </div>
+
+<img src="https://i.pinimg.com/originals/93/26/6d/93266d8669bd48f3552c90c0de38949f.gif" width="100%"/>
 
 </div>
