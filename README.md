@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=Welcome%20to%20Visukael's%20Github&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%3C%2F%3E&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://i.pinimg.com/736x/7e/99/fe/7e99fe9f0dc7d4b602577479a1d64f92.jpg" width="100%"/>
 
 <br>
 
@@ -30,7 +30,7 @@ Hello there! I'm **Visukael**, a Systems Engineering student. I enjoy learning n
 </td>
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" width="220"/>
 
 </td>
 </tr>
