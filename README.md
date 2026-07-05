@@ -1,164 +1,80 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/54/c0/0e/54c00e71c0e4c2f5034b3e1f4a46fe0e.gif" width="100%" height="250" alt="Berserk Banner">
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=Welcome%20to%20Visukael's%20Github&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%3C%2F%3E&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
 
-<div align="center">
-
-⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝
-
-</div>
-
-<div align="center">
-
-⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⢀⣀⡀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠈⢘⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⡝⣿⡎⠂⠀⠀⠀⠀
-⠀⠀⣆⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⡹⣿⣿⡜⢿⣄⢄⠀⠀⠀
-⣄⣺⣿⣼⣦⡻⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⠛⢿⣃⣈⠙⢿⡆⠻⢎⠀⠀⠀
-⢻⣿⣿⣿⣿⣇⢻⣿⣿⣿⣿⣿⢹⣿⣿⣿⣿⢻⠛⡟⠙⠀⠀⠀⠀⠈⣇⠀⠀
-⠘⣿⣟⠛⣿⣿⣿⣟⢿⣿⣿⣿⡌⣿⣿⣿⡿⠀⠁⠀⠀⠀⠀⠀⠀⠘⢾⡀⠀
-⠀⠻⠻⣧⡸⣿⣿⣿⣾⣿⣿⣿⣿⡘⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠇⠀
-⠀⠀⠀⠉⠣⠸⢿⣼⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⣀⡈⢀⣴⠄⠀⠀⠀⠀⡆⠀
-⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⠻⣿⣿⣷⡄⠀⠀⢀⠙⠛⠛⠁⠀⠀⠀⢀⢶⡄⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡀⠈⢿⣿⣷⣤⣐⡊⠉⠁⠀⠀⠀⡀⠀⣿⣎⠇⠀
-⠀⠀⠀⠀⠀⠀⠘⠲⠖⠛⠁⠀⣺⣿⣿⣿⣿⣿⣿⣷⣿⣟⡈⣿⣷⡙⣿⡄⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠈⣷⡘⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠙⢶⣶⣶⣿⣿⣿⢻⣿⡿⠿⣿⣿⣿⣿⣿⣷⡀⠋⠀⢰⡀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⡇⠀⠙⠁⠀⢨⣵⣿⠿⠟⠋⠀⠀⠀⡄⠁
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⢇⣷⣦⣄⠀⠀⠟⠛⠃⠀⠀⠀⠀⠀⠀⣠⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=3500&pause=900&color=D6D2C4&center=true&vCenter=true&width=700&lines=THE+BLACK+SWORDSMAN;STRUGGLE+ON%2C+NO+MATTER+WHAT;ALONE%2C+BUT+NEVER+BROKEN)](https://git.io/typing-svg)
-
-</div>
-
-<p align="center">
-  <img src="https://media.gifdb.com/black-and-white-man-with-sword-and-black-circle-mj2j3x98ca2rkeg4.gif" width="100%" alt="banner"/>
-</p>
-
-<div align="center">
-
-<i>𝔗𝔥𝔢 𝔰𝔦𝔩𝔢𝔫𝔠𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔤𝔯𝔞𝔳𝔢 𝔦𝔰 𝔪𝔬𝔯𝔢 𝔠𝔬𝔪𝔣𝔬𝔯𝔱𝔦𝔫𝔤 𝔱𝔥𝔞𝔫 𝔱𝔥𝔢 𝔫𝔬𝔦𝔰𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔩𝔦𝔳𝔦𝔫𝔤.</i>
-
-`⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝`
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0e1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GANTI_LINK_LINKEDIN)
+[![Codeforces](https://img.shields.io/badge/-CODEFORCES-0e1117?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GANTI_USERNAME)
+[![CodeChef](https://img.shields.io/badge/-CODECHEF-0e1117?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/GANTI_USERNAME)
+[![Pinterest](https://img.shields.io/badge/-PINTEREST-0e1117?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/GANTI_USERNAME)
+[![Chess.com](https://img.shields.io/badge/-CHESS.COM-0e1117?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://chess.com/member/GANTI_USERNAME)
 
 </div>
 
 <br>
 
-## ⚔️ &nbsp; About Me
+## 📌 About me
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-- 🗡️ &nbsp; A lone developer, cutting through bugs one commit at a time
-- 🌑 &nbsp; Building in the dark, shipping in silence
-- ⚙️ &nbsp; Currently forging: `your-project-here`
-- 🩸 &nbsp; Fueled by struggle, stubbornness, and cold coffee
-- 📡 &nbsp; Reach me: `your@email.com`
-
-</td>
-<td width="40%" valign="top" align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&color=1a1a1a&style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-`⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝`
-
-</div>
-
-## 🖤 &nbsp; Tech Arsenal
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<div align="center">
-
-`⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝`
-
-</div>
-
-## 📜 &nbsp; The Record (Stats)
-
-<div align="center">
 <table>
 <tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=d6d2c4&icon_color=8a8680&text_color=b9b6b0" alt="stats"/>
+<td width="65%" valign="top">
+
+Hello there! I'm **Visukael**, a Systems Engineering student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+
+- 🎓 Studying at **GANTI_NAMA_UNIVERSITAS**
+- 💻 Private tutor in C++ at the University
+- 🏆 Competitor in the ICPC (2025)
+- ♟️ Chess Player
+
 </td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=d6d2c4&text_color=b9b6b0" alt="top langs"/>
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D0D0D&stroke=1a1a1a&ring=8a8680&fire=7a1010&currStreakLabel=d6d2c4" alt="streak"/>
+<br>
 
-</div>
-
-<div align="center">
-
-`⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝`
-
-</div>
-
-## 🩸 &nbsp; The Struggle Continues (Contribution Graph)
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
-</div>
+## 🛠 Technologies
 
 <div align="center">
 
-`⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝`
-
-</div>
-
-## ⚰️ &nbsp; Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+![C++](https://img.shields.io/badge/-C++-0e1117?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-JAVA-0e1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-PYTHON-0e1117?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-0e1117?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-0e1117?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-0e1117?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS-0e1117?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-REACT-0e1117?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-0e1117?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ruby](https://img.shields.io/badge/-RUBY-0e1117?style=for-the-badge&logo=ruby&logoColor=white)
+![Angular](https://img.shields.io/badge/-ANGULAR-0e1117?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-NODE.JS-0e1117?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/-GIT-0e1117?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-0e1117?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MYSQL-0e1117?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 <br>
 
+## 📊 Statistics
+
 <div align="center">
 
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣠⡄⠀⠀⠀⠀⠀⠀⢰⡀⠀⠀⢹⣿⣿⣿⣿⣿⡟⠉
-⠀⠀⠀⠀⢀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⢿⣶⣿⣇⡀⣼⣿⣿⣿⣿⣿
-⢀⣴⠾⠿⠛⠛⠛⠛⠻⢿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⣿⡿⠛⠛⠛⠯
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⠿⠛⠛⣿⣿⠿⢿⣿⣿⣿⡟
-```
+<img src="https://github-readme-stats.vercel.app/api?username=visukael&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=visukael&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="200"/>
 
-**⏝꒷︶ ͡𑁬♱໒ ͡ ︶꒷⏝**
+<br><br>
 
-<sub>"Struggle on, no matter what."</sub>
+### Visukael's Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=visukael&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="100%"/>
+
+</div>
 
 </div>
