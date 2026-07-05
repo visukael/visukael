@@ -30,7 +30,7 @@ Hello there! I'm **Visukael**, a Systems Engineering student. I enjoy learning n
 </td>
 <td width="35%" align="center">
 
-<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" width="220"/>
+<img src="https://i.pinimg.com/originals/c4/f7/13/c4f7131d7c7ba2cbf9491c4453fa6fde.gif" width="220"/>
 
 </td>
 </tr>
