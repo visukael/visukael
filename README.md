@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/54/c0/0e/54c00e71c0e4c2f5034b3e1f4a46fe0e.gif" width="100%" alt="Berserk Banner">
+  <img src="https://i.pinimg.com/originals/54/c0/0e/54c00e71c0e4c2f5034b3e1f4a46fe0e.gif" width="100%" height="250" alt="Berserk Banner">
 </p>
 
 <br>
