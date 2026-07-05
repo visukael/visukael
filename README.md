@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=56D364&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student;Competitive+Programmer;Full+Stack+Developer;ICPC+2025+Competitor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=1200&color=56D364&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Digital+Experiences;Where+Logic+Meets+Design;Creator+at+the+Intersection+of+Tech+%26+Craft;Exploring+AI%2C+Design+%26+Automation" alt="Typing SVG" />
 
 <br>
 
@@ -26,17 +26,22 @@
 <tr>
 <td width="60%" valign="top">
 
-Systems Engineering student with a strong focus on problem solving and competitive programming. Active on Codeforces and Codechef, currently building practical projects around JavaScript, React and Bootstrap while sharpening algorithmic skills for ICPC.
+I create because I enjoy the process of turning an idea into something that actually works, looks intentional, and feels good to use. To me, technology isn't just about writing code, it's a medium: a way to shape logic, design, and creativity into something real.
+
+I move comfortably between building and designing. Some days that means structuring a system, other days it means refining an interface until it feels right. I care about the parts most people skip past, the small decisions that make a product feel considered rather than assembled.
+
+I'm drawn to ideas more than titles. I'd rather be known for what I build than for a role I hold.
 
 <br>
 
 | | |
 |---|---|
-| **Education** | GANTI_NAMA_UNIVERSITAS |
-| **Role** | Private Tutor in C++ at the University |
-| **Competition** | ICPC 2025 Competitor |
-| **Interest** | Chess, Algorithms, Web Development |
-| **Focus** | Full Stack Development & Competitive Programming |
+| **Currently exploring** | Artificial Intelligence & Automation |
+| **Also invested in** | UI/UX, Branding & Creative Technology |
+| **Working across** | Full Stack Development & Digital Products |
+| **Underlying interest** | Cybersecurity & Open Source |
+| **Long-term direction** | Building independent, self-owned products |
+| **Way of working** | Curious, detail-driven, always iterating |
 
 </td>
 <td width="40%" align="center" valign="top">
@@ -45,7 +50,7 @@ Systems Engineering student with a strong focus on problem solving and competiti
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_COLLAB-0d1117?style=for-the-badge&logoColor=56d364&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATIONS-0d1117?style=for-the-badge&logoColor=56d364&labelColor=0d1117" />
 
 </td>
 </tr>
@@ -53,13 +58,13 @@ Systems Engineering student with a strong focus on problem solving and competiti
 
 <br>
 
-## Technology Stack
+## Toolkit
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Languages**
+**Logic & Languages**
 
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=56d364)
 ![Java](https://img.shields.io/badge/JAVA-0d1117?style=for-the-badge&logo=openjdk&logoColor=56d364)
@@ -70,7 +75,7 @@ Systems Engineering student with a strong focus on problem solving and competiti
 </td>
 <td width="50%" valign="top">
 
-**Web & Frontend**
+**Interfaces & Experience**
 
 ![HTML5](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=56d364)
 ![CSS3](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=56d364)
@@ -83,7 +88,7 @@ Systems Engineering student with a strong focus on problem solving and competiti
 <tr>
 <td width="50%" valign="top">
 
-**Backend & Tools**
+**Systems & Automation**
 
 ![Ruby](https://img.shields.io/badge/RUBY-0d1117?style=for-the-badge&logo=ruby&logoColor=56d364)
 ![Node.js](https://img.shields.io/badge/NODE.JS-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=56d364)
@@ -92,7 +97,7 @@ Systems Engineering student with a strong focus on problem solving and competiti
 </td>
 <td width="50%" valign="top">
 
-**Databases**
+**Data & Storage**
 
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=56d364)
 ![MySQL](https://img.shields.io/badge/MYSQL-0d1117?style=for-the-badge&logo=mysql&logoColor=56d364)
@@ -103,7 +108,7 @@ Systems Engineering student with a strong focus on problem solving and competiti
 
 <br>
 
-## GitHub Analytics
+## Activity Overview
 
 <div align="center">
 
@@ -115,15 +120,11 @@ Systems Engineering student with a strong focus on problem solving and competiti
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visukael&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=56d364&text_color=c9d1d9" height="165"/>
 <img src="https://i.pinimg.com/originals/f3/fd/e8/f3fde8a696c91d951d51dc6b021d633e.gif" height="165"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=visukael&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&title=ICPC,Commits,Repositories,Stars" height="105"/>
-
 </div>
 
 <br>
 
-## Contribution Graph
+## Momentum
 
 <div align="center">
 
@@ -133,29 +134,29 @@ Systems Engineering student with a strong focus on problem solving and competiti
 
 <br>
 
-## Currently
+## Right Now
 
 <table width="100%">
 <tr>
 <td width="33%" align="center">
 
-**Learning**
+**Exploring**
 <br>
-Advanced Algorithms & System Design
+AI, Automation & Creative Technology
+
+</td>
+<td width="33%" align="center">
+
+**Designing**
+<br>
+Interfaces, Branding & Product Details
 
 </td>
 <td width="33%" align="center">
 
 **Building**
 <br>
-Personal Projects with React & Node.js
-
-</td>
-<td width="33%" align="center">
-
-**Competing**
-<br>
-ICPC 2025 Preparation
+Independent Full Stack Projects
 
 </td>
 </tr>
@@ -169,6 +170,6 @@ ICPC 2025 Preparation
 
 <br><br>
 
-<sub>Last updated: automatically synced via GitHub Actions</sub>
+<sub>Built, designed, and maintained by Visukael</sub>
 
 </div>
