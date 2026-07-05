@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/7b/1c/c2/7b1cc273a5db206f9e3e4f4d45c84f07.gif" width="100%"/>
+<img src="https://i.pinimg.com/originals/93/26/6d/93266d8669bd48f3552c90c0de38949f.gif" width="100%"/>
 
 <br>
 
@@ -30,7 +30,7 @@ Hello there! I'm **Visukael**, a Systems Engineering student. I enjoy learning n
 </td>
 <td width="35%" align="center">
 
-<img src="https://i.pinimg.com/originals/c4/f7/13/c4f7131d7c7ba2cbf9491c4453fa6fde.gif" width="220"/>
+<img src="https://i.pinimg.com/736x/fc/c0/fd/fcc0fd5def6bbca3023f8498e7d7ae47.jpg" width="220"/>
 
 </td>
 </tr>
